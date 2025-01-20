@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on - Website<br>Currently learning - Woodworking<br>Ask me about - Cybersec, Arduino, Python<br>Fun fact - I play the drums and marimba (a percussion instrument!)
+Currently working on - Website<br>Currently learning - Vim Motions<br>Ask me about - Cybersec, Arduino, Python<br>Fun fact - I play the drums and marimba (a percussion instrument!)
 
 
 ## 🌐 Socials:
