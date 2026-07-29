@@ -1,5 +1,7 @@
 # 💫 About Me:
-Currently working on - Website<br>Currently learning - Vim Motions<br>Ask me about - Cybersec, Arduino, Python<br>Fun fact - I play the drums and marimba (a percussion instrument!)
+Hi! My name is Krishna Arul (/krɪshnæ/ /ærul/). I am an electrical engineering undergrad at Georgia Tech (Expected '30). 
+
+Currently working on - Getting my Amateur Radio License (Technician Level)<br>Ask me about - Arduino, Python, Physics<br>Fun fact - I play the drums and marimba (a percussion instrument!)
 
 
 ## 🌐 Socials:
