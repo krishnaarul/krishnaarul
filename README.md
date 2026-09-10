@@ -1,7 +1,7 @@
 # 💫 About Me:
 Hi! My name is Krishna Arul (/krɪshnæ/ /ærul/). I am an electrical engineering undergrad at Georgia Tech (Expected '30). 
 
-Currently working on - Getting my Amateur Radio License (Technician Level)<br>Ask me about - Arduino, Python, Physics<br>Fun fact - I play the drums and marimba (a percussion instrument!)
+Currently working on - Getting my Amateur Radio License (General)<br>Ask me about - Arduino, Python, Physics, Ham Radio (Technician Class Operator) <br>Fun fact - I play the drums and marimba (a percussion instrument!)
 
 
 ## 🌐 Socials:
